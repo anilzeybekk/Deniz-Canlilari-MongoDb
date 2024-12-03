@@ -6,6 +6,6 @@ Veritabanı ve yönetim paneli ile çalışan deniz canlıları hakkında bilgi 
 
 #Proje Ekibi
 
-Asrın Göksoy
-Anıl Zeybek
+Asrın Göksoy,
+Anıl Zeybek,
 Harun Sarımehmetoğlu
