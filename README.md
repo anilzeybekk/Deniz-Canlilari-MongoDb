@@ -1,4 +1,4 @@
-# Deniz-Canlilari-Sitesi
+# Deniz-Canlilari-MongoDb
 
 #Proje Konusu
 
