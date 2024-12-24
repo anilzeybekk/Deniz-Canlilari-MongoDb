@@ -1,3 +1,5 @@
+//Veri yazma fonskiyonunun çalışması için verilerin girileceği form ekranı.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
