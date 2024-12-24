@@ -1,3 +1,5 @@
+//Bu sayfadaki önemli kod satırımız <a href="<?= base_url('mongo') ?>">Yorum Yap</a> budur. Yorum yap linkine tıklayınca mongodbye veri ekleme formuna gidiyor.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
