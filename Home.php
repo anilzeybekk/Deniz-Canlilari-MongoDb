@@ -1,3 +1,4 @@
+//Burada verinin yerel mongodb veritabanına yazdıran fonksiyon bulunuyor.
 <?php
 
 namespace App\Controllers;
