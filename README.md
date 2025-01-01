@@ -2,7 +2,7 @@
 
 #Proje Konusu
 
-Kullanıcının girdisini ve bilgilerini MongoDb veritabanına aktaran bir web sitesi.
+Kullanıcının girdisini ve bilgilerini yerel MongoDb veritabanına aktaran bir web sitesi.
 
 #Proje Ekibi
 
