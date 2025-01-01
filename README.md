@@ -2,7 +2,7 @@
 
 #Proje Konusu
 
-Veritabanı ve yönetim paneli ile çalışan deniz canlıları hakkında bilgi veren bir web sitesi.
+Kullanıcının girdisini ve bilgilerini MongoDb veritabanına aktaran bir web sitesi.
 
 #Proje Ekibi
 
